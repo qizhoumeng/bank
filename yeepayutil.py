@@ -94,7 +94,7 @@ class YeepayEBank(object):
             'p4_Cur': self.p4_cur, 'p5_Pid': self.p5_pid,
             'p6_Pcat': self.p6_pcat, 'p7_Pdesc': self.p7_pdesc,
             'p8_Url': self.p8_url, 'p9_SAF': self.p9_saf,
-            'pa_MP': self.pa_mp, 'pa_FrpId': self.pd_frp_id,
+            'pa_MP': self.pa_mp, 'pd_FrpId': self.pd_frp_id,
             'pr_NeedResponse': self.pr_need_response,
             'hmac': hmac
         }
